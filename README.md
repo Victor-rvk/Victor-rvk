@@ -4,6 +4,10 @@
 
 Desenvolvo soluções para tornar operações e experiências digitais mais organizadas, integradas e eficientes. Minha principal linguagem é Python, com foco na criação de sistemas que utilizam inteligência artificial para facilitar a vida dos usuários.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Criador+de+bots+para+Discord;Desenvolvedor+da+Utopia+RP;Solu%C3%A7%C3%B5es+com+intelig%C3%AAncia+artificial" alt="Especialidades de Victor" />
+</p>
+
 Também atuo como desenvolvedor da Utopia RP e desenvolvo bots para Discord, criando automações, integrações e ferramentas para comunidades online.
 
 ## Projetos em destaque
