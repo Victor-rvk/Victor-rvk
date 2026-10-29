@@ -1,64 +1,63 @@
 <div align="center">
-  <h3>🤖 NodusBot <span style="font-size: 10px; background: #5865F2; color: #ffffff; padding: 2px 6px; border-radius: 4px;">DISCORD BOT</span></h3>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=180&section=header&text=Victor%20-%20Full%20Stack%20&%20ERP%20Architect&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Waving Banner" />
+
+  <h3>🤖 NodusBot <span style="font-size: 10px; background: #5865F2; color: #ffffff; padding: 2px 6px; border-radius: 4px;">ONLINE &bull; DISCORD BOT</span></h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=750&lines=Ola,+visitante!+Seja+muito+bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack+&+Arquiteto+Odoo;Criador+de+bots+para+Discord+e+Sistemas+ERP;Explorando+Inteligencia+Artificial+e+Automacao" alt="Discord Bot Typing" />
+
 </div>
 
-# Victor
+---
 
-## Desenvolvedor Python, sistemas ERP, bots para Discord e soluções com IA
+## 🚀 Sobre Mim
 
-Desenvolvo soluções para tornar operações e experiências digitais mais organizadas, integradas e eficientes. Minha principal linguagem é Python, com foco na criação de sistemas que utilizam inteligência artificial para facilitar a vida dos usuários.
+Desenvolvedor Full Stack e Arquiteto de Sistemas com foco em **Python, Odoo ERP, automações para Discord e Inteligência Artificial**. Busco sempre criar soluções robustas, limpas e eficientes para o varejo e comunidades digitais.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=700&lines=Desenvolvedor+Python;Criador+de+bots+para+Discord;Desenvolvedor+da+Utopia+RP;Solu%C3%A7%C3%B5es+com+intelig%C3%AAncia+artificial" alt="Especialidades de Victor" />
-</p>
+---
 
-Também atuo como desenvolvedor da Utopia RP e desenvolvo bots para Discord, criando automações, integrações e ferramentas para comunidades online.
+## 📊 Estatísticas & Conquistas no GitHub
 
-## Projetos em destaque
+<div align="center">
 
-### NODUS ERP
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Victor-rvk&theme=tokyonight&hide_border=true&background=1e293b)](https://git.io/streak-stats)
 
-ERP modular para varejo brasileiro, desenvolvido sobre Odoo Community Edition. O projeto reúne recursos para:
+<br>
 
-- ponto de venda e operações de varejo;
-- estoque, produtos por peso e validade;
-- compras, vendas e produção;
-- financeiro e recursos humanos;
-- controle de acesso por grupos;
-- preparação para integrações fiscais brasileiras.
+[![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=Victor-rvk&show_icons=true&theme=tokyonight&hide_border=true&background=1e293b)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Victor-rvk&layout=compact&theme=tokyonight&hide_border=true&background=1e293b)](https://github.com/anuraghazra/github-readme-stats)
 
-O desenvolvimento é estruturado com repositórios separados para evolução, validação e publicação de versões aprovadas.
+<br>
 
-### Utopia RP e bots para Discord
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Victor-rvk&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-Desenvolvimento de recursos, automações e bots para Discord, com foco em melhorar a organização, a comunicação e a experiência dos usuários em comunidades digitais.
-
-## Tecnologias e áreas de atuação
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  <img src="https://img.shields.io/badge/IA-412991?style=flat-square&logo=openai&logoColor=white" alt="Inteligência artificial" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 </div>
 
-- desenvolvimento de sistemas ERP e automação empresarial;
-- criação de bots e integrações para Discord;
-- desenvolvimento Python com foco em soluções práticas;
-- integração de inteligência artificial em aplicações;
-- validação automatizada e atenção à segurança de dados.
+---
 
-## Atualmente
+## 🛠️ Tecnologias & Stack
 
-Aperfeiçoando o NODUS ERP, desenvolvendo soluções para a Utopia RP e criando ferramentas com Python, bots para Discord e inteligência artificial para tornar tarefas mais simples e eficientes.
+<div align="center">
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **ERP & Enterprise** | ![Odoo](https://img.shields.io/badge/Odoo-20-714B67?style=for-the-badge&logo=odoo&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+| **Banco de Dados & Cache** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **Frontend & Desktop** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) |
+| **DevOps & Automação** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| **Comunidades & Integrações** | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![OpenAI](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white) |
+
+</div>
+
+---
+
+## 🌟 Projetos em Destaque
+
+- **[NODUS ERP](https://github.com/Victor-rvk/NODUS-DEV):** Sistema ERP modular para varejo brasileiro desenvolvido sobre Odoo 20 Community Edition, com PDV otimizado, estoque por peso, controle de validade e módulos fiscais.
+- **Utopia RP & Bots para Discord:** Desenvolvimento de automações avançadas, bots personalizados e ferramentas para gestão de comunidades online.
 
 ---
 
 <p align="center">
-  <sub>Desenvolvimento de soluções inteligentes para experiências mais simples, integradas e eficientes.</sub>
+  <sub>✨ Desenvolvendo soluções inteligentes para experiências mais simples, integradas e eficientes. ✨</sub>
 </p>
