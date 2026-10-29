@@ -1,19 +1,6 @@
 <div align="center">
-  <table width="100%" bgcolor="#2f3136" style="border-radius: 12px; padding: 10px;">
-    <tr>
-      <td width="60" align="center" valign="top">
-        <img src="https://api.dicebear.com/7.x/bottts/svg?seed=NodusBot" width="52" style="border-radius: 50%; background: #5865F2; padding: 4px;" />
-      </td>
-      <td align="left" style="color: #dcddde; font-family: -apple-system, sans-serif;">
-        <span style="font-weight: bold; color: #ffffff; font-size: 15px;">NodusBot</span> 
-        <span style="font-size: 10px; color: #ffffff; background: #5865F2; padding: 1px 5px; border-radius: 3px; font-weight: bold;">BOT</span> 
-        <span style="font-size: 12px; color: #72767d; margin-left: 5px;">Hoje às 18:42</span>
-        <div style="margin-top: 6px;">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=5865F2&center=false&vCenter=true&width=700&lines=👋+Olá,+visitante!+Bem-vindo+ao+meu+perfil!;💻+Desenvolvedor+Full+Stack+%26+Arquiteto+Odoo;🚀+Criador+de+bots+para+Discord+e+Sistemas+ERP;⚡+Explorando+Inteligência+Artificial+e+Automação" alt="Discord Bot Typing" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <h3>🤖 NodusBot <span style="font-size: 10px; background: #5865F2; color: #ffffff; padding: 2px 6px; border-radius: 4px;">DISCORD BOT</span></h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=5865F2&center=true&vCenter=true&width=750&lines=Ola,+visitante!+Seja+muito+bem-vindo+ao+meu+perfil!;Desenvolvedor+Full+Stack+&+Arquiteto+Odoo;Criador+de+bots+para+Discord+e+Sistemas+ERP;Explorando+Inteligencia+Artificial+e+Automacao" alt="Discord Bot Typing" />
 </div>
 
 # Victor
