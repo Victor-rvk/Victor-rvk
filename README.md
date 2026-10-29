@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Victor-rvk/NODUS-DEV/main/docs/assets/discord-bot-anim.svg" width="100%" alt="Discord Bot Welcome">
+</div>
+
 # Victor
 
 ## Desenvolvedor Python, sistemas ERP, bots para Discord e soluções com IA
