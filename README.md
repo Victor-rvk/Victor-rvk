@@ -15,20 +15,13 @@ Desenvolvedor Full Stack e Arquiteto de Sistemas com foco em **Python, Odoo ERP,
 
 ---
 
-## 📊 Estatísticas & Conquistas no GitHub
+## 📊 Conquistas & Métricas no GitHub
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Victor-rvk&theme=tokyonight&hide_border=true&background=1e293b)](https://git.io/streak-stats)
-
-<br>
-
-[![GitHub Stats](https://github-readme-stats.herokuapp.com/api?username=Victor-rvk&show_icons=true&theme=tokyonight&hide_border=true&background=1e293b)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.herokuapp.com/api/top-langs/?username=Victor-rvk&layout=compact&theme=tokyonight&hide_border=true&background=1e293b)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Victor-rvk&theme=tokyonight&no-bg=true&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Followers](https://img.shields.io/github/followers/Victor-rvk?label=Seguidores&style=for-the-badge&color=5865F2&logo=github)](https://github.com/Victor-rvk?tab=followers)
+[![GitHub Repos](https://img.shields.io/github/repos/Victor-rvk?label=Repositórios+Públicos&style=for-the-badge&color=3776AB&logo=github)](https://github.com/Victor-rvk?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=Victor-rvk&color=00FF7F&style=for-the-badge&label=VISITAS+NO+PERFIL)](https://github.com/Victor-rvk)
 
 </div>
 
