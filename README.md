@@ -1,5 +1,19 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Victor-rvk/NODUS-DEV/main/docs/assets/discord-bot-anim.svg" width="100%" alt="Discord Bot Welcome">
+  <table width="100%" bgcolor="#2f3136" style="border-radius: 12px; padding: 10px;">
+    <tr>
+      <td width="60" align="center" valign="top">
+        <img src="https://api.dicebear.com/7.x/bottts/svg?seed=NodusBot" width="52" style="border-radius: 50%; background: #5865F2; padding: 4px;" />
+      </td>
+      <td align="left" style="color: #dcddde; font-family: -apple-system, sans-serif;">
+        <span style="font-weight: bold; color: #ffffff; font-size: 15px;">NodusBot</span> 
+        <span style="font-size: 10px; color: #ffffff; background: #5865F2; padding: 1px 5px; border-radius: 3px; font-weight: bold;">BOT</span> 
+        <span style="font-size: 12px; color: #72767d; margin-left: 5px;">Hoje às 18:42</span>
+        <div style="margin-top: 6px;">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=5865F2&center=false&vCenter=true&width=700&lines=👋+Olá,+visitante!+Bem-vindo+ao+meu+perfil!;💻+Desenvolvedor+Full+Stack+%26+Arquiteto+Odoo;🚀+Criador+de+bots+para+Discord+e+Sistemas+ERP;⚡+Explorando+Inteligência+Artificial+e+Automação" alt="Discord Bot Typing" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 # Victor
